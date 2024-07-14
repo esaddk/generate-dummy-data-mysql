@@ -67,4 +67,3 @@ pip install faker
 This script is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 ```
-You can save this content to a file with the extension `.md`, for example, `mysql_insert_script.md`. This Markdown file provides an overview of the script's functionality, usage instructions, prerequisites, configuration details, and dependencies.
